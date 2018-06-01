@@ -13,6 +13,8 @@ class BXBaseTableViewController: UIViewController {
     // cloneSwiftCode 修改了一些新的东西,提交看看冲突不
     // 自定义tableview
     var tableView: UITableView?
+    // 第一次修改tableview我再看看会不会冲突
+    var tableView111111: UITableView?
     // 刷新控件
     var refreshControl: UIRefreshControl?
     // 上拉刷新标记
