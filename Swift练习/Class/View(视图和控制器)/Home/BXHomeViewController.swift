@@ -12,7 +12,7 @@ import UIKit
 let cellId = "cellId"
 
 class BXHomeViewController: BXBaseTableViewController {
-    
+    // 哈哈哈哈啊哈哈哈,我要先提交一下,然后看你怎么合并
    // conflictGitCode 用户改了一些东西,提交试试看
     // 微博数据数组
     private lazy var statusList = [String]()
