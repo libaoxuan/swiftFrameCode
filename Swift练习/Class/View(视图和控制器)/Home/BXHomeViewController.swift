@@ -13,7 +13,7 @@ let cellId = "cellId"
 
 class BXHomeViewController: BXBaseTableViewController {
     
-   
+   // conflictGitCode 用户改了一些东西,提交试试看
     // 微博数据数组
     private lazy var statusList = [String]()
     // 加载数据
